@@ -6,9 +6,6 @@
     <img src="https://media.licdn.com/dms/image/D4D35AQEy1uDvxs4EMg/profile-framedphoto-shrink_400_400/0/1703318126069?e=1704596400&v=beta&t=hEYkp9tWopz9RwfOmPMB8Cz-X8c50TPSC2bK3ZiTu5g" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
-<h1 align="center">Adham Mohamed</h1>
-<h3 align="center">Software Engineer | .NET Developer | DeFi Enthusiast</h3>
-
 <h1 align="center">Adham Mohamed</h1> <h3 align="center">Software Engineer | .NET Developer | DeFi Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhammohamd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=adhammohamd&theme=darkhub&no-frame=true&margin-w=15" alt="Github Profile Trophy" /> </a> </p>
 About Me
 Software Engineer specializing in .NET development with a focus on building robust financial applications and exploring decentralized finance technologies.
