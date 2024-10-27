@@ -1,4 +1,13 @@
+<div align="center">
+    <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="header" width="100%" height="auto"/>
+</div>
 
+<div align="center">
+    <img src="https://media.licdn.com/dms/image/D4D35AQEy1uDvxs4EMg/profile-framedphoto-shrink_400_400/0/1703318126069?e=1704596400&v=beta&t=hEYkp9tWopz9RwfOmPMB8Cz-X8c50TPSC2bK3ZiTu5g" width="200" height="200" style="border-radius: 50%;" />
+</div>
+
+<h1 align="center">Adham Mohamed</h1>
+<h3 align="center">Software Engineer | .NET Developer | DeFi Enthusiast</h3>
 
 <h1 align="center">Adham Mohamed</h1> <h3 align="center">Software Engineer | .NET Developer | DeFi Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhammohamd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=adhammohamd&theme=darkhub&no-frame=true&margin-w=15" alt="Github Profile Trophy" /> </a> </p>
 About Me
