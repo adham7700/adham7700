@@ -1,14 +1,10 @@
 
-<div align="center">
-    <img src="https://media.licdn.com/dms/image/D4D35AQEy1uDvxs4EMg/profile-framedphoto-shrink_400_400/0/1703318126069?e=1704596400&v=beta&t=hEYkp9tWopz9RwfOmPMB8Cz-X8c50TPSC2bK3ZiTu5g(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="200" height="200" style="border-radius: 50%;" />
-</div>
-
 <h1 align="center">Adham Mohamed</h1>
 <h3 align="center">Software Engineer | .NET Developer | DeFi Enthusiast</h3>" alt="header" width="100%" height="auto"/>
 </div>
 
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4D35AQEy1uDvxs4EMg/profile-framedphoto-shrink_400_400/0/1703318126069?e=1704596400&v=beta&t=hEYkp9tWopz9RwfOmPMB8Cz-X8c50TPSC2bK3ZiTu5g" width="200" height="200" style="border-radius: 50%;" />
+    <img src="[https://media.licdn.com/dms/image/D4D35AQEy1uDvxs4EMg/profile-framedphoto-shrink_400_400/0/1703318126069?e=1704596400&v=beta&t=hEYkp9tWopz9RwfOmPMB8Cz-X8c50TPSC2bK3ZiTu5g](https://www.google.com/imgres?q=.net&imgurl=https%3A%2F%2Faudacia.co.uk%2Fimg%2Ftechnologies%2Fdotnetcore.svg&imgrefurl=https%3A%2F%2Faudacia.co.uk%2Ftechnologies%2Fnet-development-company&docid=NRDzw87H6tTjwM&tbnid=6UAZVnJ3lEkXKM&vet=12ahUKEwi45OHZs66JAxW4TqQEHdnvI1EQM3oECEgQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwi45OHZs66JAxW4TqQEHdnvI1EQM3oECEgQAA)" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">Adham Mohamed</h1> <h3 align="center">Software Engineer | .NET Developer | DeFi Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhammohamd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=adhammohamd&theme=darkhub&no-frame=true&margin-w=15" alt="Github Profile Trophy" /> </a> </p>
