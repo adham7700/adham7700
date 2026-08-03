@@ -224,7 +224,7 @@ readme_final = '''<div align="center">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhammohamd&color=1565C0&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=adhammohamd&color=1565C0&style=flat-square" " />
 </p>
 
 <div align="center">
