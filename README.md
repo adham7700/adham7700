@@ -12,10 +12,12 @@
   <a href="mailto:madham7700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adhammohamd"><img src="https://img.shields.io/badge/GitHub-0d47a1?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/adhammohamed"><img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadhammohamd&count_bg=%230D47A1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadhammohamd&count_bg=%230D47A1&title_bg=%231565C0&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile views" />
 </p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
-plain
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │  👨‍💻 Full Stack Developer at StockSquares (09/2024 – Present)              │
 │  🎓 B.Sc. Computer Science – Ain Shams University (2020 – 2024)             │
