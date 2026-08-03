@@ -12,8 +12,8 @@
   <a href="mailto:madham7700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adhammohamd"><img src="https://img.shields.io/badge/GitHub-0d47a1?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/adhammohamed"><img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adhammohamd&color=0d47a1&style=for-the-badge" alt="Profile views" />
-</p>
+  <!-- <img src="https://komarev.com/ghpvc/?username=adhammohamd&color=0d47a1&style=for-the-badge" alt="Profile views" /> -->
+</p
 
 ---
 
