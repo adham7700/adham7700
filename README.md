@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="mailto:madham7700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/adhammohamd"><img src="https://img.shields.io/badge/GitHub-0d47a1?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/adham7700"><img src="https://img.shields.io/badge/GitHub-0d47a1?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/adhammohamed"><img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- <img src="https://komarev.com/ghpvc/?username=adhammohamd&color=0d47a1&style=for-the-badge" alt="Profile views" /> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=adham7700&color=0d47a1&style=for-the-badge" alt="Profile views" /> -->
 </p>
 
 ---
@@ -157,22 +157,22 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhammohamd&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1565C0&icon_color=1565C0&text_color=c9d1d9&border_color=21262d&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhammohamd&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1565C0&text_color=c9d1d9&border_color=21262d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adham7700&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1565C0&icon_color=1565C0&text_color=c9d1d9&border_color=21262d&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham7700&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1565C0&text_color=c9d1d9&border_color=21262d" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adhammohamd&theme=github-dark-blue&background=0d1117&stroke=21262d&ring=1565C0&fire=1565C0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1565C0&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=adham7700&theme=github-dark-blue&background=0d1117&stroke=21262d&ring=1565C0&fire=1565C0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1565C0&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adhammohamd&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adham7700&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhammohamd&bg_color=0d1117&color=c9d1d9&line=1565C0&point=1565C0&area=true&area_color=1565C0&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adham7700&bg_color=0d1117&color=c9d1d9&line=1565C0&point=1565C0&area=true&area_color=1565C0&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ## 🏆 Publications
@@ -188,7 +188,7 @@ Built a real-time Arabic Sign Language translation web app using Python/Django, 
   <a href="mailto:madham7700@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-0d47a1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/adhammohamd">
+  <a href="https://github.com/adham7700">
     <img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/adhammohamed">
@@ -197,7 +197,7 @@ Built a real-time Arabic Sign Language translation web app using Python/Django, 
 </p>
 
 <!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhammohamd&color=1565C0&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=adham7700&color=1565C0&style=flat-square" alt="Profile views" />
 </p> -->
 
 <div align="center">
