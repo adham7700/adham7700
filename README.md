@@ -132,9 +132,12 @@ Building a stock market education and virtual trading platform.
 ### GitHub Stats
 
 **@adham7700** — primary
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adham7700&layout=compact&theme=github_dark&bg_color=0d1117&title_color=339933&text_color=c9d1d9&border_color=21262d" />
 <p align="center">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adham7700&layout=compact&theme=github_dark&bg_color=0d1117&title_color=339933&text_color=c9d1d9&border_color=21262d" />
+  </p>
+
+<p align="center">
+
   <img src="https://streak-stats.demolab.com/?user=adham7700&theme=github-dark-blue&background=0d1117&stroke=21262d&ring=339933&fire=339933&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=339933&sideLabels=c9d1d9&dates=8b949e" alt="adham7700 GitHub Streak" />
 </p>
 
