@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=180&section=header&text=Adham%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%C2%B7%20React%20%C2%B7%20MongoDB&descAlignY=55&descSize=17" />
 </div>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhammohamd&color=1565C0&style=flat-square" alt="Profile views" />
+</p>
 <p align="center">
   <a href="mailto:madham7700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adham7700"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
