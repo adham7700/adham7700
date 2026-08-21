@@ -137,9 +137,8 @@ Building a stock market education and virtual trading platform.
   </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adham7700&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=adham7700&theme=github-dark-blue&background=0d1117&stroke=21262d&ring=339933&fire=339933&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=339933&sideLabels=c9d1d9&dates=8b949e" alt="adham7700 GitHub Streak" />
 </p>
-
 
 
 <br/>
