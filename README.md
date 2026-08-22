@@ -134,9 +134,8 @@ Building a stock market education and virtual trading platform.
 <p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adham7700&layout=compact&theme=github_dark&bg_color=0d1117&title_color=339933&text_color=c9d1d9&border_color=21262d" /> </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adham7700&theme=github-dark-blue&background=0d1117&stroke=21262d&ring=339933&fire=339933&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=339933&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=adham7700&theme=github-dark-blue&background=0d1117&stroke=21262d&ring=339933&fire=339933&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=339933&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adham7700&bg_color=0d1117&color=c9d1d9&line=339933&point=339933&area=true&area_color=339933&hide_border=true" alt="Contribution Graph" />
 </p>
